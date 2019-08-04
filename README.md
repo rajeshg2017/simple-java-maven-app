@@ -16,8 +16,4 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
-1. Test for CI
-
-2. Test for SCM
-
-Test for Webhook/
+1. Just test 4Aug19
